@@ -1,3 +1,18 @@
+
+# Do not put my credentials in publix git
+src/test/resources/credentials.json
+
+#idea
+.idea
+
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+
+# Ignore Gradle build output directory
+build
+
 # Compiled class file
 *.class
 
