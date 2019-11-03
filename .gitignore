@@ -1,6 +1,7 @@
 
 # Do not put my credentials in publix git
 src/test/resources/credentials.json
+tokens/StoredCredential
 
 #idea
 .idea
